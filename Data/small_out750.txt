@@ -1,0 +1,2 @@
+Parallel: 1.00000005E-4
+Sequential: 0.0

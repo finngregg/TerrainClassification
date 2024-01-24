@@ -1,0 +1,35 @@
+commit 5fdd2e9ff606cc262283c666eece9d25bce231e2
+Author: greggfinn <finngregg@gmail.com>
+Date:   Thu Aug 27 23:40:54 2020 +0200
+
+    Last minute changes and comments added/removed
+
+commit debcfdaa031cc9fb2f9b987e8c90d39987ce63ef
+Author: greggfinn <finngregg@gmail.com>
+Date:   Thu Aug 27 23:26:22 2020 +0200
+
+    Adding javadoc comments
+
+commit c28150a56c6a5f2908f1fe0b886470732febea5e
+Author: greggfinn <finngregg@gmail.com>
+Date:   Thu Aug 27 21:43:25 2020 +0200
+
+    Removing unnecessary code
+
+commit d66881ec87d22313760fbdf14cdd1d552a79daf2
+Author: greggfinn <finngregg@gmail.com>
+Date:   Thu Aug 27 18:54:21 2020 +0200
+
+    Commneted out code used for outputitng the procesing times
+
+commit 4f9c2b35fd3c68832e56d8968cfadd1d86b5cd3e
+Author: greggfinn <finngregg@gmail.com>
+Date:   Thu Aug 27 18:49:41 2020 +0200
+
+    Updated Makefile
+
+commit 2eea6cc98c6884853e5a258105953b8913b72b80
+Author: greggfinn <finngregg@gmail.com>
+Date:   Thu Aug 27 18:48:49 2020 +0200
+
+    Initial commit
